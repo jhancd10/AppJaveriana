@@ -56,7 +56,6 @@ namespace AppJaveriana.Services.RestAPIClient
             get
             {
                 List<DiaAsignatura> ans = new List<DiaAsignatura>();
-                int cont = 0;
                 if(asignaturaUser.Length != 0)
                 {
                     foreach(Asignatura asignatura in asignaturaUser)
@@ -80,7 +79,6 @@ namespace AppJaveriana.Services.RestAPIClient
                 var content = await client.GetStringAsync(LoginWebServiceUrl + cliente.UserName + "&" + "pass=" + cliente.Password);
                 //UserDetailCredentials loginCliente = JsonConvert.DeserializeObject<UserDetailCredentials>(content);
                 user = JsonConvert.DeserializeObject<UserDetailCredentials>(content);
-
                 if (user.IsValido)
                 {
                     mensajeError.Message = "Exitoso";
@@ -94,7 +92,6 @@ namespace AppJaveriana.Services.RestAPIClient
                     mensajeError.HasError = true;
                 }
             }
-
             catch (HttpRequestException e)
             {
                 mensajeError.Message = "Error de comunicación";
@@ -116,8 +113,5 @@ namespace AppJaveriana.Services.RestAPIClient
             
             return asignaturaUser;
         }
-
-
-
     }
 }

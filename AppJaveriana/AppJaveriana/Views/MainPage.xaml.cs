@@ -47,7 +47,7 @@ namespace AppJaveriana.Views
                         MenuPages.Add(id, new NavigationPage(new ItemsPage(servicioAPI)));
                         break;
                     case (int)MenuItemType.Horario:
-                        MenuPages.Add(id, new NavigationPage(new AboutPage()));
+                        MenuPages.Add(id, new NavigationPage(new VistaHorario(servicioAPI)));
                         break;
                     case (int)MenuItemType.Noticias:
                         MenuPages.Add(id, new NavigationPage(new AboutPage()));

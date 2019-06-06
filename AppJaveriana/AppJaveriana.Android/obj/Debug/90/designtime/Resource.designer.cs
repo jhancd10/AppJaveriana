@@ -5744,6 +5744,9 @@ namespace AppJaveriana.Droid
 			// aapt resource value: 0x7F09005C
 			public const int design_snackbar_background = 2131296348;
 			
+			// aapt resource value: 0x7F010002
+			public const int fondoPrincipal = 2130771970;
+			
 			// aapt resource value: 0x7F090055
 			public const int ic_audiotrack_dark = 2131296341;
 			
@@ -6284,6 +6287,12 @@ namespace AppJaveriana.Droid
 			// aapt resource value: 0x7F090105
 			public const int ic_vol_type_tv_light = 2131296517;
 			
+			// aapt resource value: 0x7F010003
+			public const int logo = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int logoSplash = 2130771972;
+			
 			// aapt resource value: 0x7F090106
 			public const int mr_button_connected_dark = 2131296518;
 			
@@ -6395,8 +6404,8 @@ namespace AppJaveriana.Droid
 			// aapt resource value: 0x7F090070
 			public const int tooltip_frame_light = 2131296368;
 			
-			// aapt resource value: 0x7F010002
-			public const int xamarin_logo = 2130771970;
+			// aapt resource value: 0x7F010005
+			public const int xamarin_logo = 2130771973;
 			
 			static Drawable()
 			{

@@ -14,7 +14,8 @@ namespace AppJaveriana
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new LoginPage();
+            MainPage = new NavigationPage(new SplashPage());
+            //MainPage = new LoginPage();
         }
 
         protected override void OnStart()

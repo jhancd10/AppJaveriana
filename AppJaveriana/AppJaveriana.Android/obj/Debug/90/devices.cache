@@ -8,4 +8,8 @@
     <ResultingAbi></ResultingAbi>
     <SdkVersion>28</SdkVersion>
   </Device>
+  <Device id="0815f8b25b0f0404">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
 </Devices>
