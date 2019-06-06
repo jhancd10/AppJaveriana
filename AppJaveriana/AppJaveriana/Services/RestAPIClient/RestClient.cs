@@ -51,6 +51,27 @@ namespace AppJaveriana.Services.RestAPIClient
             set { diasAsignaturas = value; }
         }
 
+        public List<DiaAsignatura> HorariosCompletos
+        {
+            get
+            {
+                List<DiaAsignatura> ans = new List<DiaAsignatura>();
+                int cont = 0;
+                if(asignaturaUser.Length != 0)
+                {
+                    foreach(Asignatura asignatura in asignaturaUser)
+                    {
+                        foreach(DiaAsignatura horario in asignatura.Horario)
+                        {
+                            ans.Add(horario);
+                        }
+                    }
+                    return ans;
+                }
+                return null;
+            }
+        }
+
         #endregion
         public async Task<MensajeErrorModel> LoginCliente(UserDetailCredentials cliente)
         {
@@ -95,6 +116,8 @@ namespace AppJaveriana.Services.RestAPIClient
             
             return asignaturaUser;
         }
+
+
 
     }
 }
