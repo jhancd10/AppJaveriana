@@ -1075,24 +1075,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jhan Carlos\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel Mamian\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana.iOS\\AppJaveriana.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana.iOS\\AppJaveriana.iOS.csproj",
       "projectName": "AppJaveriana.iOS",
-      "projectPath": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana.iOS\\AppJaveriana.iOS.csproj",
-      "packagesPath": "C:\\Users\\Jhan Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana.iOS\\AppJaveriana.iOS.csproj",
+      "packagesPath": "C:\\Users\\Daniel Mamian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jhan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel Mamian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1106,8 +1106,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj": {
-              "projectPath": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj"
+            "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj": {
+              "projectPath": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj"
             }
           }
         }

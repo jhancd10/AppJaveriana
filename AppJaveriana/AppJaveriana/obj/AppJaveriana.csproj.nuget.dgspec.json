@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj": {}
+    "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj": {
+    "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj",
         "projectName": "AppJaveriana",
-        "projectPath": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj",
-        "packagesPath": "C:\\Users\\Jhan Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhan Carlos\\Desktop\\AppJaveriana\\AppJaveriana\\AppJaveriana\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\AppJaveriana.csproj",
+        "packagesPath": "C:\\Users\\Daniel Mamian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Mamian\\Desktop\\ProyFinalMov\\AppJaveriana\\AppJaveriana\\AppJaveriana\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jhan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Mamian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
